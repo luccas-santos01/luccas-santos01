@@ -36,5 +36,3 @@ Sou um gestor comercial em transição para a área de tecnologia, especializado
 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-santos01&layout=compact&langs_count=7&theme=dracula"/>
 
-![snake gif](https://github.com/luccas-santos01/luccas-santos01/blob/output/github-contribution-grid-snake.svg)
-
